@@ -1,5 +1,3 @@
-# Connection-pooling-C-
-@@ -0,0 +1,12@@
 该项目是为了实现一个基于C++的MYSQL连接池。
 搭建的平台：Windows11.0，VS 2022
 主要使用到的技术：MySQL数据库编程、单例模式、queue队列容器、C++11多线程编程、线程互斥、线程同步通信和unique_lock、基于CAS的原子整形、智能指针shared_ptr、lambda表达式、生产者-消费者线程模型
